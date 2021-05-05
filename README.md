@@ -2,7 +2,14 @@
 um Repositório sobre nós
 
 quem nós somos?
-nós somos uma dupla de desenvolvedores (por enquanto) que adoram muitas técnologias como Python, HTML5 e CSS3, C#  e muito mais!!!!
+nós somos uma dupla de desenvolvedores (por enquanto) que adoram muitas técnologias como Python, HTML5 e CSS3, php  e muito mais!!!!
+
+# Principais linguagens que usamos
+
+* Batch
+* VBScript
+* Python
+* php
 
 # Atividade da Equipe
 
