@@ -6,7 +6,7 @@ nós somos uma dupla de desenvolvedores (por enquanto) que adoram muitas técnol
 
 # Principais linguagens que usamos
 
-* Batch
+* css
 * VBScript
 * Python
 * php
